@@ -1,3 +1,4 @@
 # Miosiones
 
-Investigar como funciona git
+* Investigar como funciona git
+* Hacer campaña face
