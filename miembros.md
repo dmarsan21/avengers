@@ -1,5 +1,6 @@
 # Miembros
 
+* Deiby Lora
 * Black panther
 * Black Widow
 * Capitán America
